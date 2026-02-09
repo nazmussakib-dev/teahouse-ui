@@ -57,6 +57,3 @@ This project was built to:
 ### 👨‍💻 Author
 
 Built with care and attention to detail by **Nazmus Sakib**
-Aspiring software engineer 💙
-
----

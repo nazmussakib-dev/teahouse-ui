@@ -1,5 +1,3 @@
----
-
 ## 🍵 Tea House UI — A Premium Frontend Experience
 
 🌿 **Live Preview:**
